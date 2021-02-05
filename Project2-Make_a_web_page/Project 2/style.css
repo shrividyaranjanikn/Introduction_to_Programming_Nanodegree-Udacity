@@ -1,0 +1,16 @@
+div.transbox
+{
+  margin: 30px;
+  background-color: #000000;
+  border:2px solid white;
+  border-radius: 2%;
+  background-position:left;
+  width:35%;
+
+}
+
+div.transbox {
+  font-weight: bold;
+  font-style: normal;
+  color: #000000;
+}

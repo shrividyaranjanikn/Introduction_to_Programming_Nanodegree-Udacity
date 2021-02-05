@@ -1,0 +1,19 @@
+Card Game
+---------
+
+This card game has been developed using JavaScript, JQuery, HTML and CSS
+
+Get to know the game
+--------------------
+1. The game consists of 8 sets of cards that need to be matched.
+2. The game records the star rating, time utilized and the number of moves made by the player.
+3. The game also contains a restart button to restart the game.
+4. The game begins when the player clicks on a card to open it.
+5. During the game, the player must keep flipping the cards, and matching them.
+6. Once all the cards are matched, the game ends and the result of the game is displayed to the player.
+7. The player can restart the game if needed.
+
+How to Run
+----------
+1. Extract the zipped contents. 
+2. Open the index.html file inside 'cardGame' directory to start playing the game in your browser.
